@@ -11,7 +11,7 @@ Hunter
 Hunter
 
 '''
-number = int(input("Enter a number:"))
+number = int(input("Times to print:"))
 
 while number > 0:
   number -= 1

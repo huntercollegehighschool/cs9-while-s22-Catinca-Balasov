@@ -21,7 +21,7 @@ input = 0
 while num != 0:
   total = total + num
   input += 1
-  
+  num = int(input("Enter a number or enter 0 to stop:"))
 
 total = total / input
     
